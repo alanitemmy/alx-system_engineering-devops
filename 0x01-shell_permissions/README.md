@@ -1,1 +1,2 @@
-my alx shell permission
+#!/bin/bash
+my shell permission 2
